@@ -1,0 +1,7 @@
+{
+  "name": "token-window",
+  "version": "0.5.2",
+  "description": "See how many input and output tokens you used in the current 5-hour Claude Code window, per session, in a docked dashboard pane.",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

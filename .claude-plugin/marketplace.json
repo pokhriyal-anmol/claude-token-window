@@ -1,0 +1,12 @@
+{
+  "name": "token-window",
+  "owner": { "name": "pokhriyal-anmol" },
+  "description": "Token usage dashboard mod for Claude Code.",
+  "plugins": [
+    {
+      "name": "token-window",
+      "source": "./",
+      "description": "Input and output tokens in the current 5-hour window, per session, with a docked dashboard pane."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# per-session usage files the mod writes into projects it runs in
+.claude/token-usage/
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
